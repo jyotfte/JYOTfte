@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, we're Web Developer's Of JYOT</h1>
 <h3 align="center">JYOT is a Non Government Organization</h3>
 
-- 🔭 we're currently working on **Our Official Website**
+- 🔭 we're currently working on **Our Official Website** [https://jyotfte.org/](https://jyotfte.org/)
 
 - 📝 We regularly write articles on [https://jyotfte.medium.com/](https://jyotfte.medium.com/)
 
